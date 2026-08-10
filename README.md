@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Nitin Variya
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+%7C+Django+Developer;C%2B%2B+%7C+DSA+Enthusiast;AI+%26+Machine+Learning+Learner;Open+to+Software+Engineering+Internships" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Python+%7C+Django+Developer;C%2B%2B+%7C+DSA+Enthusiast;AI+%26+Machine+Learning+Learner;Open+to+Software+Engineering+Internships" />
 
 <p>
 🎓 CSE Student @ Nirma University <br>
@@ -110,47 +110,10 @@
 
 ---
 
-# 🚀 Featured Projects
 
-### 📱 WhatsApp Chat Analyzer
 
-> Python • Streamlit • Pandas • Matplotlib
 
-✔ Chat Statistics
 
-✔ Word Cloud
-
-✔ Emoji Analysis
-
-✔ Timeline Analysis
-
----
-
-### ⚽ Box Cricket Booking System
-
-> Django • React • MongoDB
-
-✔ Online Ground Booking
-
-✔ Tournament Registration
-
-✔ Team Management
-
-✔ Admin Dashboard
-
----
-
-### 💰 Expense Sharing App (Upcoming)
-
-Flutter
-
-Offline Support
-
-Group Expenses
-
-Notifications
-
-Monthly Reports
 
 ---
 
